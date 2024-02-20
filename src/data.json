@@ -1,0 +1,8 @@
+[{"Name":"Sahi Paneer", "Price": 5.00, "Type":"Veg"},
+{"Name":"Chicken", "Price": 11.99, "Type":"Non-Veg"},
+{"Name":"Chicken Tukda", "Price": 5.00, "Type":"Non-Veg"},
+{"Name":"Paneer Butter Masala","Price":12.99,"Type":"Veg"},
+{"Name":"Chicken Butter Masala","Price":12.99,"Type":"Veg"},
+{"Name":"Chicken Korma","Price":20.99,"Type":"Non-Veg"},
+{"Name":"Dal","Price":14.99,"Type":"Veg"},
+{"Name":"Rice","Price":4.99,"Type":"Veg"}]
